@@ -255,6 +255,32 @@ $toast-pulls: true !default;
     &.#{$toast-grid-column-namespace}--s-3-of-4 {
       width: percentage(3/4);
     }
+    // adding 12column grid for small devices
+    &.#{$toast-grid-column-namespace}--s-1-of-12 {
+      width: percentage(1/12);
+    }
+    &.#{$toast-grid-column-namespace}--s-1-of-12 {
+      width: percentage(1/12);
+    }
+    &.#{$toast-grid-column-namespace}--s-1-of-12 {
+      width: percentage(1/12);
+    }
+    &.#{$toast-grid-column-namespace}--s-1-of-12 {
+      width: percentage(1/12);
+    }
+    &.#{$toast-grid-column-namespace}--s-1-of-12 {
+      width: percentage(1/12);
+    }
+    &.#{$toast-grid-column-namespace}--s-1-of-12 {
+      width: percentage(1/12);
+    }
+    &.#{$toast-grid-column-namespace}--s-1-of-12 {
+      width: percentage(1/12);
+    }
+    &.#{$toast-grid-column-namespace}--s-1-of-12 {
+      width: percentage(1/12);
+    }
+    
   }
 }
 
